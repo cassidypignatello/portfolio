@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I\'m a web developer originally from New York, now based in Jakarta, Indonesia. Before becoming a developer, I worked in digital advertising operations and hold a Bachelor of Arts in Audio/Radio Production from Hofstra University. I\'ve worked at companies such as Yahoo, LinkedIn, and The Wall Street Journal.',
   paragraphTwo: 'Other than learning about new technology, some of my interests include traveling, DJing, playing bass, and practicing Muay Thai.',
   paragraphThree: 'Whether your next project is an e-commerce store, website for your business, or a web application, let\'s talk and see how I can help!',
-  resume: 'https://drive.google.com/file/d/1ojmyZvvvZ_D8kPA8ap1FEinxBtqCUHCp/view', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1NqqKcvLDBOLdXjqykj8NbFxp3m6Sh90i/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
