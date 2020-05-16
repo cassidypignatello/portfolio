@@ -2,7 +2,6 @@ import React, { useContext } from 'react';
 import { Container } from 'react-bootstrap';
 import PortfolioContext from '../../context/context';
 import GithubButtons from '../GithubButtons/GithubButtons';
-
 import { githubButtons } from '../../mock/data';
 
 const Footer = () => {
@@ -34,12 +33,7 @@ const Footer = () => {
             })}
         </div>
         <hr />
-        <p className="footer__text">
-          © {new Date().getFullYear()} - Template developed by{' '}
-          <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
-            Jacobo Martínez
-          </a>
-        </p>
+        <p className="footer__text">© {new Date().getFullYear()} - Cassidy Pignatello</p>
 
         {isEnabled && <GithubButtons />}
       </Container>
