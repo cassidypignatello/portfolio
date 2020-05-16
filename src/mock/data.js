@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'bitshares.png',
+    title: 'BitShares',
+    info: 'BitShares is an industrial grade crypto-equity, peer to peer distributed ledger, and network based on a Delegated Proof of Stake (DPoS) algorithm.',
+    info2: 'I work primarily on bitshares.org, as well as their wallet UI, forums, and news site.',
+    url: 'https://www.bitshares.org',
+    repo: 'https://github.com/bitshares/bitshares-ui', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'xcoynz.png',
+    title: 'XCOYNZ',
+    info: 'A cryptocurrency exchange that enables users to set their own fee when making a transaction, as well as integrate all of their crypto asset addresses into a single XCOYNZ address.',
+    info2: 'I worked on a complete rebuild of their website as a React app and integrated their mailing list.',
+    url: 'https://xcoynz.now.sh/',
+    repo: 'https://github.com/cassidypignatello/xcoynz', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'github-battle.png',
+    title: 'Github Battle',
+    info: 'A React app that communicates with the Github API to battle other Github users and see the most popular repos for various languages.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://github-battle-ad866.firebaseapp.com/',
+    repo: 'https://github.com/cassidypignatello/github-battle/', // if no repo, the button will not show up
   },
 ];
 
